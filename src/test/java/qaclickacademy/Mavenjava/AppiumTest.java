@@ -11,9 +11,16 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void NativeAPAndroidS()
+	{
+		System.out.println("NativeAPAndroid1");
+	}
+	
+	@Test
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");
+		System.out.println("IOSApps1");
 	}
 
 }
