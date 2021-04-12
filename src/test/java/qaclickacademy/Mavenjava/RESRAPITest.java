@@ -9,6 +9,9 @@ public class RESRAPITest {
 	{
 		System.out.println("postJira");
 		System.out.println("postJira2");
+		//added by GetStuff person:
+		System.out.println("postJira3");
+		System.out.println("postJira4");
 	}
 	
 	@Test
