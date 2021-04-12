@@ -8,6 +8,7 @@ public class RESRAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
+		System.out.println("postJira2");
 	}
 	
 	@Test
